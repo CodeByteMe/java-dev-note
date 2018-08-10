@@ -11,6 +11,7 @@
 - [**2017Java学习路线图**](http://bbs.itheima.com/thread-338415-1-1.html)
 - [**2018年新版Java学习路线图**](http://bbs.itheima.com/thread-386464-1-1.html)
 - [**How2J的Java教程**](http://how2j.cn/)
+- [**LintCode算法练习**](https://www.lintcode.com/problem/)
 
 
 ## 知识目录【主要博客资料】
